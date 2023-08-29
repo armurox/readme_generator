@@ -16,4 +16,4 @@ To run the programme, enter the following command in the command prompt/terminal
 ```
 python3 main.py <filename>
 ```
-Replace `<filename>` with the filename of the code snippet you would like to summarise.
+Replace `<filename>` with the filename of the code snippet you would like to summarise (with the path to it from the current directory indicated as well).
