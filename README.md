@@ -1,5 +1,5 @@
 # README
-This programme is used to generate a 'README.md' document which summarises a given code snippet. In order to use this programme you must have an OpenAI API key, which must be specified when using the `openai.api_key` parameter.
+This program is used to generate a 'README.md' document which summarises a given code snippet. In order to use this programme you must have an OpenAI API key, which must be specified when using the `openai.api_key` parameter.
 
 ## Requirements
 * The OpenAI API key
